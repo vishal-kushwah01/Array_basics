@@ -1,20 +1,19 @@
 # Array Basics in Java
 
-This repository contains beginner-friendly Java programs to understand fundamental array concepts and operations.
+This repository contains Java programs covering fundamental array concepts and common array-based DSA problems.
 
 ## Topics Covered
 
-### Basic Array Concepts
+### Array Fundamentals
 
 * Array Declaration and Initialization
-* Taking Input in Arrays
-* Printing Array Elements
+* Array Input and Output
 * Passing Arrays as Function Arguments
 
 ### Array Operations
 
-* Finding Largest Element
-* Finding Smallest Element
+* Find Largest Element
+* Find Smallest Element
 * Sum of Array Elements
 * Average of Array Elements
 * Reverse an Array
@@ -23,6 +22,11 @@ This repository contains beginner-friendly Java programs to understand fundament
 
 * Linear Search
 * Binary Search
+
+### Array Pattern Problems
+
+* Pair in Array
+* Subarray Generation
 
 ## Files
 
@@ -36,17 +40,23 @@ This repository contains beginner-friendly Java programs to understand fundament
 * ReverseArray.java
 * Linear_Search.java
 * Binary_Search.java
+* PairInArray.java
+* SubArray.java
 
-## Purpose
+## Learning Outcomes
 
-This repository is part of my Java and DSA preparation journey. The goal is to strengthen array fundamentals before moving to advanced data structures and algorithms.
+* Understanding array traversal
+* Searching techniques
+* Time complexity basics
+* Nested loop applications
+* Pair generation
+* Subarray concepts
 
 ## Author
 
 Vishal Kushwah
 
-## Connect
-
 GitHub: https://github.com/vishal-kushwah01
+
 
 
