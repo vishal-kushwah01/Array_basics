@@ -1,6 +1,6 @@
 # Array Basics in Java
 
-This repository contains Java programs covering fundamental array concepts and common array-based DSA problems.
+A collection of Java programs covering array fundamentals, searching algorithms, and introductory array-based DSA problems.
 
 ## Topics Covered
 
@@ -23,40 +23,44 @@ This repository contains Java programs covering fundamental array concepts and c
 * Linear Search
 * Binary Search
 
-### Array Pattern Problems
+### Array Problems
 
 * Pair in Array
 * Subarray Generation
 
-## Files
+### Advanced Array Concepts
 
-* basic.java
-* Input_Array.java
-* ArrayAsFunction.java
-* Largest_Number.java
-* Smallest_Number.java
-* SumOfArray.java
-* AverageOfNumbers.java
-* ReverseArray.java
-* Linear_Search.java
-* Binary_Search.java
-* PairInArray.java
-* SubArray.java
+* Prefix Sum Technique
+* Maximum Subarray Sum (Brute Force & Prefix Sum)
 
-## Learning Outcomes
+## Project Structure
 
-* Understanding array traversal
-* Searching techniques
-* Time complexity basics
-* Nested loop applications
-* Pair generation
-* Subarray concepts
+```text
+Array/
+├── Advance/
+│   ├── prefix.java
+│   └── MaxSubArray.java
+├── basic.java
+├── Input_Array.java
+├── ArrayAsFunction.java
+├── Largest_Number.java
+├── Smallest_Number.java
+├── SumOfArray.java
+├── AverageofNumbers.java
+├── ReverseArray.java
+├── Linear_Search.java
+├── Binary_Search.java
+├── PairInArray.java
+├── SubArray.java
+└── README.md
+```
+
+## Purpose
+
+This repository is part of my Java and DSA preparation journey. It focuses on building a strong foundation in arrays before moving on to more advanced data structures and algorithms.
 
 ## Author
 
-Vishal Kushwah
+**Vishal Kushwah**
 
 GitHub: https://github.com/vishal-kushwah01
-
-
-
