@@ -12,7 +12,7 @@ public class prefix {
                 int end = j;
 
                int currsum = 0 ;
-               currsum = start == 0 ? prefix[end] : prefix[end] - prefix[start];  
+               currsum = start == 0 ? prefix[end] : prefix[end] - prefix[start-1];  
 
                if(currsum > max){
                  max = currsum;
@@ -24,7 +24,7 @@ public class prefix {
 
     }
     public static void main(String[] args) {
-        int number[] = {2,4,6,8,10};
+        int number[] = {2,4,6,8,10,12};
         Max(number);
         
     }
